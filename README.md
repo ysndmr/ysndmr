@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**ysndmr/ysndmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, this is Me. I am a frontend developer, GulpJs Lover, Js Lover, Ux Lover, Dad.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  My tech:
+
+- **Responsive, Web-Development:** HTML5, CSS3, CSS/SCSS/LESS, Storybook;
+- **Fron-tend:** Vanilla JavaScript, (ES6+);
+- **JavaScript libraries:** Vue, Vue Native;
+- **Testing libraries:** Jest;
+- **Code bundlers:** Gulp, Grunt, Webpack;
+- **User Experience /User Interface:** Adobe XD, Adobe Photoshop.
+
+###  Learning:
+- React, React Native;
+- D3.js;
+
+### Some of my projects:
+
+| Project name        | Description          | Technologies  |
+| ------------- | ------------- | ----- |
+| [gulp-render-json](https://github.com/ysndmr/gulp-render-json) | This application allows you to build all of your assets files with a single json file, generate a project with multiple files and files with a single JavaScript function. | JavaScript, Gulp, Node |
+| [Simply Modal Box](https://github.com/ysndmr/simply-modal-box) | Simply Modal Box is a modern dialog library which is highly configurable, clear, simple and easily styleable works on mobile devices, and can be customized to match your style. | Javascript, HTML5, CSS3 |
+| [searchappreact](https://github.com/ysndmr/searchappreact) |  | Vanilla JavaScript (ES6), React, HTML5 |
+|
+
+
