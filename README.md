@@ -19,6 +19,8 @@ Hi, this is Me. I am a frontend developer, GulpJs Lover, Js Lover, Ux Lover, Dad
 
 | Project name        | Description          | Technologies  |
 | ------------- | ------------- | ----- |
+| [vue-app-movie](https://github.com/ysndmr/vue-app-movie) | Example of movie list app (add movie, update movie, delete movie) in Vue JS + Vue Router + State Management + Vuex | BEM CSS, SASS, Vanilla.js, ES6
+| [vuejs-input-tag-component](https://github.com/ysndmr/vue-input-tag-app) | This app, you can use for your input tag application. Vue Component | BEM CSS, SASS, ES7
 | [gulp-render-json](https://github.com/ysndmr/gulp-render-json) | This application allows you to build all of your assets files with a single json file, generate a project with multiple files and files with a single JavaScript function. | JavaScript, Gulp, Node |
 | [Easy Modal / Alert Box](https://github.com/ysndmr/easy-modal-alert-box) | Simply Modal Box is a modern dialog library which is highly configurable, clear, simple and easily styleable works on mobile devices, and can be customized to match your style. | Javascript, HTML5, CSS3 |
 | [SylUI Header](https://github.com/ysndmr/SylUI-Header) | Header HTML is a simply HTML UI Kit. | HTML5, CSS3, Sass, Gulp.js |
