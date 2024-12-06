@@ -1,17 +1,19 @@
 ### Hi, I'm Yasin Demir
 
-I am a Senior Front-End Developer with a passion for React.js, Vue.js, and Angular. My expertise spans across a wide range of modern JavaScript frameworks, and I am deeply invested in creating high-quality, scalable web applications.
+I’m a Senior Front-End Engineer with over 10 years of experience, specializing in JavaScript/TypeScript, React, Next.js, and modern web tools. I focus on building fast, scalable, and user-friendly web applications that solve real-world problems.
 
 ### My tech stack:
 
-- **Responsive Web Development:** HTML5, CSS3, Tailwind, Bootstrap, Sass, LESS, Styled Components, Storybook;
-- **Front-End:** Vanilla JavaScript (ES6+), React.js, Vue.js, Angular, Next.js, TypeScript;
-- **JavaScript Libraries & Frameworks:** Vue, Vue Native, Angular;
-- **State Management:** Redux, Context API;
-- **Testing Libraries:** Cypress, Jest;
-- **Code Bundlers:** Gulp, Grunt, Webpack;
-- **User Experience / User Interface:** Adobe XD, Figma, Adobe Photoshop, UX Research & Design Principles;
-- **Cloud & Backend:** AWS, Node.js;
+
+- **Responsive Web Development:** HTML5, CSS3, Tailwind, Bootstrap, Sass, LESS, Styled Components, Storybook
+- **Front-End:** Vanilla JavaScript (ES6+), React.js, Vue.js, Angular, Next.js, TypeScript
+- **JavaScript Libraries & Frameworks:** Vue, Vue Native, Angular
+- **State Management:** Redux, Context API
+- **Testing Libraries:** Cypress, Jest
+- **Code Bundlers:** Gulp, Grunt, Webpack
+- **User Experience / UI:** Adobe XD, Figma, Adobe Photoshop, UX Research & Design Principles
+- **Cloud & Backend:** AWS, Node.js
+
 
 ### Currently Learning:
 - Advanced AI-driven personalization in front-end development;
