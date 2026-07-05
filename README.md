@@ -1,6 +1,6 @@
 ### Hi, I'm Yasin Demir
 
-I’m a Senior Front-End Engineer with over 10 years of experience, specializing in JavaScript/TypeScript, React, Next.js, and modern web tools. I focus on building fast, scalable, and user-friendly web applications that solve real-world problems.
+I’m a Senior Front-End Engineer with over 20 years of experience, specializing in JavaScript/TypeScript, React, Next.js, and modern web tools. I focus on building fast, scalable, and user-friendly web applications that solve real-world problems.
 
 ### My tech stack:
 
