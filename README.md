@@ -2,7 +2,7 @@
 <h3 align="center">Senior Front-End Engineer — React, Vue, Angular &amp; Next.js</h3>
 
 <p align="center">
-Front-end engineer with 20 years shipping production interfaces — real-time news platforms at Turkey's largest media group, fintech trading products in Amsterdam, and enterprise SaaS running across 12+ markets. Currently building advertising-technology front ends at <b>KINESSO</b>.
+Front-end engineer with 20 years shipping production interfaces, real-time news platforms at Turkey's largest media group, fintech trading products in Amsterdam, and enterprise SaaS running across 12+ markets. Currently building advertising-technology front ends at <b>KINESSO</b>.
 </p>
 
 <p align="center">
