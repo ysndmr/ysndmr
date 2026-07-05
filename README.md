@@ -1,32 +1,50 @@
-### Hi, I'm Yasin Demir
+<h1 align="center">Hi, I'm Yasin Demir</h1>
+<h3 align="center">Senior Front-End Engineer — React, Vue, Angular &amp; Next.js</h3>
 
-I’m a Senior Front-End Engineer with over 20 years of experience, specializing in JavaScript/TypeScript, React, Next.js, and modern web tools. I focus on building fast, scalable, and user-friendly web applications that solve real-world problems.
+<p align="center">
+Front-end engineer with 20 years shipping production interfaces — real-time news platforms at Turkey's largest media group, fintech trading products in Amsterdam, and enterprise SaaS running across 12+ markets. Currently building advertising-technology front ends at <b>KINESSO</b>.
+</p>
 
-### My tech stack:
+<p align="center">
+<a href="https://ysndmr.com"><img src="https://img.shields.io/badge/Website-ysndmr.com-c07828?style=flat-square" alt="Website"></a>
+<a href="https://linkedin.com/in/ysndmr"><img src="https://img.shields.io/badge/LinkedIn-ysndmr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://npmjs.com/~ysndmr"><img src="https://img.shields.io/badge/npm-ysndmr-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a>
+<a href="mailto:yasindemir@ysndmr.com"><img src="https://img.shields.io/badge/Email-yasindemir%40ysndmr.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
+---
 
-- **Responsive Web Development:** HTML5, CSS3, Tailwind, Bootstrap, Sass, LESS, Styled Components, Storybook
-- **Front-End:** Vanilla JavaScript (ES6+), React.js, Vue.js, Angular, Next.js, TypeScript
-- **JavaScript Libraries & Frameworks:** Vue, Vue Native, Angular
-- **State Management:** Redux, Context API
-- **Testing Libraries:** Cypress, Jest
-- **Code Bundlers:** Gulp, Grunt, Webpack
-- **User Experience / UI:** Adobe XD, Figma, Adobe Photoshop, UX Research & Design Principles
-- **Cloud & Backend:** AWS, Node.js
+### Tech Stack
 
+|  |  |
+|---|---|
+| **Languages** | TypeScript, JavaScript (ESM), HTML5, CSS3 |
+| **Frameworks** | React, Next.js, Angular, Vue.js, Node.js |
+| **Styling** | Tailwind CSS, SCSS, Styled Components, CSS Modules |
+| **Architecture** | Component-driven design, Redux & Context API, micro-frontends, a11y / WCAG |
+| **Testing** | Jest, Cypress, React Testing Library |
+| **Tooling & CI** | Git, Storybook, Docker, Lerna, Vite, GitHub Actions, GitLab CI |
+| **Cloud & Backend** | AWS, SQL, ASP.NET, PHP |
+| **AI Integration** | OpenAI API, LangChain, TensorFlow.js, AI-assisted development workflows |
 
-### Currently Learning:
-- Advanced AI-driven personalization in front-end development;
-- TensorFlow.js;
-  
-### Some of my projects:
+### Currently Learning
+- Agentic / durable workflow patterns for AI-assisted development
+- Advanced AI-driven personalization in front-end products
 
-| Project Name        | Description          | Technologies  |
-| ------------- | ------------- | ----- |
-| [vue-app-movie](https://github.com/ysndmr/vue-app-movie) | Example of a movie list app with add, update, delete functionality using Vue.js and Vuex | BEM CSS, SASS, Vue.js |
-| [vuejs-input-tag-component](https://github.com/ysndmr/vue-input-tag-app) | Input tag component for Vue projects | BEM CSS, SASS, Vue.js |
-| [gulp-render-json](https://github.com/ysndmr/gulp-render-json) | A project using Gulp to generate assets from a single JSON file | JavaScript, Gulp, Node.js |
-| [Easy Modal / Alert Box](https://github.com/ysndmr/easy-modal-alert-box) | A customizable modal box library for modern web apps | JavaScript, HTML5, CSS3 |
-| [SylUI Header](https://github.com/ysndmr/SylUI-Header) | Simple HTML UI kit for header components | HTML5, CSS3, Sass, Gulp.js |
-| [Local-API-Test-Vue](https://github.com/ysndmr/Local-API-Test) | Local API test environment for CRUD operations | Vue.js, Node.js |
-| [searchappreact](https://github.com/ysndmr/searchappreact) | A search app built with React | React, Vanilla JavaScript (ES6), HTML5 |
+### Some of my projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [ngx-local-vault](https://github.com/ysndmr/ngx-local-vault) | Signals-based, <2KB, zero-dependency, SSR-safe encrypted browser storage for Angular with built-in TTL | Angular, Signals, TypeScript |
+| [react-local-vault](https://github.com/ysndmr/react-local-vault) | Hooks-based encrypted storage exposing a `[value, setValue]` API matching `useState`; hydration-safe for Next.js/Remix | React, TypeScript, tsup |
+| [vue-local-vault](https://github.com/ysndmr/vue-local-vault) | Composition API `useVault` returning a real `Ref<T>`, with TTL-aware reactive encrypted storage | Vue, TypeScript |
+| [ysndmr.com](https://ysndmr.com) | Scrollytelling portfolio — zoneless Angular 21, GSAP/ScrollTrigger motion primitives, hand-written WebGL/GLSL page transitions, Contentful CMS | Angular 21, GSAP, WebGL/GLSL |
+| [gulp-render-json](https://github.com/ysndmr/gulp-render-json) | Generates CSS/JS assets from a single JSON source via Gulp | JavaScript, Gulp, Node.js |
+| [simply-modal-box](https://github.com/ysndmr/simply-modal-box) | Lightweight modal component built with vanilla JS and CSS3 transitions | JavaScript, HTML5, CSS3 |
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ysndmr&show_icons=true&count_private=true&hide_border=true&title_color=c07828&icon_color=c07828&text_color=333333&bg_color=00000000" alt="Yasin's GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysndmr&layout=compact&hide_border=true&title_color=c07828&text_color=333333&bg_color=00000000" alt="Top Languages" height="165">
+</p>
