@@ -1,0 +1,37 @@
+{
+  "pinned": [
+    {
+      "name": "ysndmr.com",
+      "url": "https://ysndmr.com",
+      "description": "Scrollytelling portfolio — zoneless Angular 21, GSAP/ScrollTrigger motion primitives, hand-written WebGL/GLSL page transitions, Contentful CMS",
+      "stack": "Angular 21, GSAP, WebGL/GLSL"
+    }
+  ],
+  "exclude": ["ysndmr-v3"],
+  "fallback": {
+    "ngx-local-vault": {
+      "description": "Signals-based, <2KB, zero-dependency, SSR-safe encrypted browser storage for Angular with built-in TTL",
+      "stack": "Angular, Signals, TypeScript"
+    },
+    "react-local-vault": {
+      "description": "Hooks-based encrypted storage exposing a [value, setValue] API matching useState; hydration-safe for Next.js/Remix",
+      "stack": "React, TypeScript, tsup"
+    },
+    "vue-local-vault": {
+      "description": "Composition API useVault returning a real Ref<T>, with TTL-aware reactive encrypted storage",
+      "stack": "Vue, TypeScript"
+    },
+    "gulp-render-json": {
+      "description": "Generates CSS/JS assets from a single JSON source via Gulp",
+      "stack": "JavaScript, Gulp, Node.js"
+    },
+    "simply-modal-box": {
+      "description": "Lightweight modal component built with vanilla JS and CSS3 transitions",
+      "stack": "JavaScript, HTML5, CSS3"
+    },
+    "LightweightModal-Angular-service": {
+      "description": "Lightweight modal alert box component as an Angular service",
+      "stack": "Angular, TypeScript"
+    }
+  }
+}

@@ -33,14 +33,20 @@ Front-end engineer with 20 years shipping production interfaces, real-time news 
 
 ### Some of my projects
 
+<!-- PROJECTS:START -->
 | Project | Description | Stack |
 | --- | --- | --- |
-| [ngx-local-vault](https://github.com/ysndmr/ngx-local-vault) | Signals-based, <2KB, zero-dependency, SSR-safe encrypted browser storage for Angular with built-in TTL | Angular, Signals, TypeScript |
-| [react-local-vault](https://github.com/ysndmr/react-local-vault) | Hooks-based encrypted storage exposing a `[value, setValue]` API matching `useState`; hydration-safe for Next.js/Remix | React, TypeScript, tsup |
-| [vue-local-vault](https://github.com/ysndmr/vue-local-vault) | Composition API `useVault` returning a real `Ref<T>`, with TTL-aware reactive encrypted storage | Vue, TypeScript |
 | [ysndmr.com](https://ysndmr.com) | Scrollytelling portfolio — zoneless Angular 21, GSAP/ScrollTrigger motion primitives, hand-written WebGL/GLSL page transitions, Contentful CMS | Angular 21, GSAP, WebGL/GLSL |
-| [gulp-render-json](https://github.com/ysndmr/gulp-render-json) | Generates CSS/JS assets from a single JSON source via Gulp | JavaScript, Gulp, Node.js |
-| [simply-modal-box](https://github.com/ysndmr/simply-modal-box) | Lightweight modal component built with vanilla JS and CSS3 transitions | JavaScript, HTML5, CSS3 |
+| [ngx-viewport-signals](https://github.com/ysndmr/ngx-viewport-signals) | Signals-native IntersectionObserver & ResizeObserver primitives for Angular. SSR-safe, zero dependencies. | TypeScript |
+| [vue-local-vault](https://github.com/ysndmr/vue-local-vault) | Composition API useVault returning a real Ref<T>, with TTL-aware reactive encrypted storage | Vue, TypeScript |
+| [react-local-vault](https://github.com/ysndmr/react-local-vault) | Hooks-based encrypted storage exposing a [value, setValue] API matching useState; hydration-safe for Next.js/Remix | React, TypeScript, tsup |
+| [ngx-local-vault](https://github.com/ysndmr/ngx-local-vault) | Signals-based, <2KB, zero-dependency, SSR-safe encrypted browser storage for Angular with built-in TTL | Angular, Signals, TypeScript |
+| [LightweightModal-Angular-service](https://github.com/ysndmr/LightweightModal-Angular-service) | Lightweight modal alert box component as an Angular service | Angular, TypeScript |
+| [image](https://github.com/ysndmr/image) | image | — |
+| [backup-scripts](https://github.com/ysndmr/backup-scripts) | — | Shell |
+| [calculator-project](https://github.com/ysndmr/calculator-project) | — | HTML |
+| [react-input-tag](https://github.com/ysndmr/react-input-tag) | — | JavaScript |
+<!-- PROJECTS:END -->
 
 ---
 
