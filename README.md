@@ -9,6 +9,7 @@ Front-end engineer shipping production interfaces across real-time news platform
 <a href="https://ysndmr.com"><img src="https://img.shields.io/badge/Website-ysndmr.com-c07828?style=flat-square" alt="Website"></a>
 <a href="https://linkedin.com/in/ysndmr"><img src="https://img.shields.io/badge/LinkedIn-ysndmr-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://npmjs.com/~ysndmr"><img src="https://img.shields.io/badge/npm-ysndmr-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"></a>
+<a href="https://dev.to/ysndmr"><img src="https://img.shields.io/badge/dev.to-ysndmr-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"></a>
 <a href="mailto:yasindemir@ysndmr.com"><img src="https://img.shields.io/badge/Email-yasindemir%40ysndmr.com-333?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
