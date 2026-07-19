@@ -38,6 +38,7 @@ Front-end engineer shipping production interfaces across real-time news platform
 | Project | Description | Stack |
 | --- | --- | --- |
 | [ysndmr.com](https://ysndmr.com) | Scrollytelling portfolio — zoneless Angular 21, GSAP/ScrollTrigger motion primitives, hand-written WebGL/GLSL page transitions, Contentful CMS | Angular 21, GSAP, WebGL/GLSL |
+| [mindsparks-privacy](https://github.com/ysndmr/mindsparks-privacy) | — | HTML |
 | [ngx-viewport-signals](https://github.com/ysndmr/ngx-viewport-signals) | Signals-native IntersectionObserver & ResizeObserver primitives for Angular. SSR-safe, zero dependencies. | TypeScript |
 | [vue-local-vault](https://github.com/ysndmr/vue-local-vault) | Composition API useVault returning a real Ref<T>, with TTL-aware reactive encrypted storage | Vue, TypeScript |
 | [react-local-vault](https://github.com/ysndmr/react-local-vault) | Hooks-based encrypted storage exposing a [value, setValue] API matching useState; hydration-safe for Next.js/Remix | React, TypeScript, tsup |
@@ -46,7 +47,6 @@ Front-end engineer shipping production interfaces across real-time news platform
 | [image](https://github.com/ysndmr/image) | image | — |
 | [backup-scripts](https://github.com/ysndmr/backup-scripts) | — | Shell |
 | [calculator-project](https://github.com/ysndmr/calculator-project) | — | HTML |
-| [react-input-tag](https://github.com/ysndmr/react-input-tag) | — | JavaScript |
 <!-- PROJECTS:END -->
 
 ---
